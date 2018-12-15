@@ -1,0 +1,17 @@
+body{
+    background-image: url("../images/fancy-cushion.png");
+}
+
+#submitTrain{
+    margin-top: 1em;
+}
+#main-container{
+    width: 100%;
+    overflow: auto;
+    border-radius: 1em;
+    margin-bottom: 2em;
+}
+
+#table-head th{
+    border-top: 0px;
+}
